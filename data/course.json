@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ]
+  ],
+  "legacy_uid": "4cf0cb47-3449-2847-7163-2dbb89ad63e8",
+  "instructors": {
+    "content": [
+      "46846993-4fc6-6fdb-9785-eb94547364e3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e444bb90-2172-a156-3017-33d5fb51c459",
+    "website": "8-513-many-body-theory-for-condensed-matter-systems-fall-2004"
+  },
+  "course_title": "Many-Body Theory for Condensed Matter Systems",
+  "course_description": "This course covers the concepts and physical pictures behind various phenomena that appear in interacting many-body systems. Visualization occurs through concentration on path integral, mean-field theories and semi-classical picture of fluctuations around mean-field state.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.513",
+  "course_image_thumbnail": {
+    "content": "24c00b1f-a1f8-8089-9cf2-635f0b3d052c",
+    "website": "8-513-many-body-theory-for-condensed-matter-systems-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "3265f50a-1e45-4c8a-bb95-cd212c75194e",
+  "site_short_id": "8.513-fall-2004",
+  "site_url_path": "courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004",
+  "title": "Course Metadata"
+}
