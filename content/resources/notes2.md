@@ -5,6 +5,8 @@ description: This resource contains information on fermi statistics, hall effect
 file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/77949c25b372491482aeeee7434f4ccc_notes2.pdf
 file_size: 2064349
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains information on coherent state path integral,
 file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/f558b75473b9657d4b80f0293c0e03ff_notes5.pdf
 file_size: 6005696
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

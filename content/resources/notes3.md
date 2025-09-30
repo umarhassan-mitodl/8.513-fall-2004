@@ -5,6 +5,8 @@ description: This resource contains information on eigen value, normalisation, v
 file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/c8e74b4f00a8eb24c28becddae93fefa_notes3.pdf
 file_size: 5883985
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
