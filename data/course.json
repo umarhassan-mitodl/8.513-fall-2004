@@ -23,7 +23,6 @@
     "website": "8-513-many-body-theory-for-condensed-matter-systems-fall-2004"
   },
   "course_title": "Many-Body Theory for Condensed Matter Systems",
-  "hide_download": true,
   "course_description": "This course covers the concepts and physical pictures behind various phenomena that appear in interacting many-body systems. Visualization occurs through concentration on path integral, mean-field theories and semi-classical picture of fluctuations around mean-field state.\n",
   "department_numbers": [
     "8"
@@ -34,7 +33,6 @@
     "content": "24c00b1f-a1f8-8089-9cf2-635f0b3d052c",
     "website": "8-513-many-body-theory-for-condensed-matter-systems-fall-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

@@ -5,8 +5,6 @@ description: This resource contains information on excitations, and brief introd
 file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/03d7090eb0a3434a2ca941e1bc9036db_notes10.pdf
 file_size: 2144944
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

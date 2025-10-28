@@ -5,8 +5,6 @@ description: This resource contains information on quantum theory, thermodynamic
 file: /courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/2cafd67d9ed51262e632283b9a545249_notes1.pdf
 file_size: 1987795
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
